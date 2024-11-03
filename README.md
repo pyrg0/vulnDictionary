@@ -1,2 +1,2 @@
 # vulnDictionary
-mini vuln dictionary
+i'll write this when i feel i want to
