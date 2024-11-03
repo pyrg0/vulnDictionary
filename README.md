@@ -1,0 +1,2 @@
+# vulnDictionary
+mini vuln dictionary
